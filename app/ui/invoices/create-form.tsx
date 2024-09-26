@@ -1,4 +1,4 @@
-import { CustomerField } from '@/app/lib/definitions';
+import { CustomerField } from '@/app/dashboard/invoices/lib/definitions';
 import Link from 'next/link';
 import {
   CheckIcon,
